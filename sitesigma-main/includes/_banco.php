@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "sigma";
+$database = "sitesigma";
 $username = "root";
 $password = "";
 
